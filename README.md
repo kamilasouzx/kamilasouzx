@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -45,6 +43,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-www.linkedin.com/in/kamila-de-souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kamila-de-souza)](www.linkedin.com/in/kamila-de-souza)
+[![Linkedin](https://img.shields.io/badge/-Kamila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kamila-de-souza)](www.linkedin.com/in/kamila-de-souza)
 [![Gmail Badge](https://img.shields.io/badge/-kskamila39@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kskamila39@gmail.com)](e-mail:kskamila39@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/kamilasouzx)
