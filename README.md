@@ -1,24 +1,26 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.  
 - 🎓 Cursando Técnico em Desenvolvimento de Sistemas no SENAI - SC.
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Linguagens e frameworks**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![IntelliJ IDEA]()
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Kamila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kamila-de-souza)](www.linkedin.com/in/kamila-de-souza)
-[![Gmail Badge](https://img.shields.io/badge/-kskamila39@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kskamila39@gmail.com)](e-mail:kskamila39@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/kamilasouzx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamila-de-souza)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kskamila39@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/kamilasouzx?label=Follow&style=social)](https://github.com/kamilasouzx)
