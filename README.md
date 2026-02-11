@@ -1,24 +1,60 @@
-## Kamila de Souza
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.  
-- 🎓 Cursando Técnico em Desenvolvimento de Sistemas no SENAI - SC.
+<h1 align="center">Kamila de Souza</h1>
 
-## Minhas Skills
+###
 
-**Linguagens e frameworks**
+<p align="left">Oi! Sou estudante de Sistemas de Informação na ESUCRI e formada como Técnica em Desenvolvimento de Sistemas pelo SENAI. Estou construindo minha carreira na área de tecnologia, com foco no desenvolvimento contínuo das minhas habilidades técnicas</p>
 
-![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
-![React](https://img.shields.io/badge/react-333333?style=flat&logo=react&logoColor=%2361DAFB)
+###
 
-**Ferramentas de desenvolvimento**
+<br clear="both">
 
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)
+<h3 align="left">Tecnologias & Ferramentas</h3>
 
-## Onde me encontrar
+###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamila-de-souza)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kskamila39@gmail.com)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">Entre em contato</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamilasouzx/kamilasouzx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamilasouzx/kamilasouzx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kamilasouzx/kamilasouzx/output/pacman-contribution-graph.svg">
+</picture>
+
+###
