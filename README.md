@@ -1,4 +1,4 @@
-<h1 align="center">Kamila de Souza</h1>
+<h1 align="left">Kamila de Souza</h1>
 
 ###
 
@@ -52,9 +52,13 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamilasouzx/kamilasouzx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamilasouzx/kamilasouzx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kamilasouzx/kamilasouzx/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/kamilasouzx/pacman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/kamilasouzx/pacman/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/kamilasouzx/pacman/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
