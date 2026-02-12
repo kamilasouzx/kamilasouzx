@@ -4,13 +4,9 @@
 
 <p align="left">Oi! Sou estudante de Sistemas de Informação na ESUCRI e formada como Técnica em Desenvolvimento de Sistemas pelo SENAI. Estou construindo minha carreira na área de tecnologia, com foco no desenvolvimento contínuo das minhas habilidades técnicas</p>
 
-###
-
 <br clear="both">
 
 <h3 align="left">Tecnologias & Ferramentas</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -45,9 +41,15 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/kamila-de-souza" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="24" alt="LinkedIn" />
+  </a>
+
+  <a href="kskamila39@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="24" alt="Gmail" />
+  </a>
 </div>
+
 
 ###
 
