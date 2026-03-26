@@ -1,6 +1,6 @@
 <h1 align="left">Kamila de Souza</h1>
 
-<p align="left">Oi! Sou estudante de Sistemas de Informação na ESUCRI e também finalizando um curso Técnico em Desenvolvimento de Sistemas pelo SENAI. Estou construindo minha carreira na área de tecnologia, com foco no desenvolvimento contínuo das minhas habilidades técnicas.</p>
+<p align="left">Oi! Estou cursando Sistemas de Informação na ESUCRI e também finalizando um curso Técnico em Desenvolvimento de Sistemas pelo SENAI. Estou construindo minha carreira na área de tecnologia, com foco no desenvolvimento contínuo das minhas habilidades técnicas.</p>
 
 <h3 align="left">Tecnologias & Ferramentas</h3>
 
