@@ -1,14 +1,13 @@
 <h1 align="left">Kamila de Souza</h1>
 
-<p align="left">Oi! Sou estudante de Sistemas de Informação na ESUCRI e formada como Técnica em Desenvolvimento de Sistemas pelo SENAI. Estou construindo minha carreira na área de tecnologia, com foco no desenvolvimento contínuo das minhas habilidades técnicas.</p>
+<p align="left">Oi! Sou estudante de Sistemas de Informação na ESUCRI e também finalizando um curso Técnico em Desenvolvimento de Sistemas pelo SENAI. Estou construindo minha carreira na área de tecnologia, com foco no desenvolvimento contínuo das minhas habilidades técnicas.</p>
 
 <h3 align="left">Tecnologias & Ferramentas</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" /> 
-  <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
